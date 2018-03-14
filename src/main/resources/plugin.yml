@@ -1,0 +1,3 @@
+name: SpaceRaidersBuilder
+main: com.scarabcoder.srbuilder.SRBuilderPlugin
+version: ${project.version}

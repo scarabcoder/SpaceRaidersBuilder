@@ -1,0 +1,5 @@
+hangar-spawn:
+  x: 0
+  y: 10
+  z: 0
+hangar-y-offset: 50
